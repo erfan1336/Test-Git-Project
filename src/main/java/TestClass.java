@@ -8,5 +8,16 @@ public class TestClass {
         System.out.println("Added new line here");
 
         System.out.println("Added another line here.");
+
+
+
+        int number = 3;
+
+        System.out.println(number);
+
+        System.out.println("new line added here");
+
+
+
     }
 }
